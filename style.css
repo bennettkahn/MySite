@@ -1,0 +1,59 @@
+.content {
+	display: contents;
+	max-width: 950px;
+	min-width: 700px;
+}
+
+.top-content{
+    width: 95%;
+    height: 250px;
+    background-color: rgb() /* CHANGE ME */;
+    /* CENTER ME */
+    /* CENTER ME */
+    border: 2px solid black;
+    /* ADD BORDER RADIUS */
+}
+
+.bio-table {
+    display: block;
+    position: relative;
+    width: 20%;
+    float: left;
+    margin: 15px auto 15px auto;
+    text-align: left !important;
+    /* ADD SOME LEFT PADDING HERE */
+    /* ADD A BORDER HERE */
+}
+
+.bio-table th, td {
+    /* ADD A BORDER HERE */
+}
+
+.headshot-div {
+    display: block;
+    position: relative;
+    width: 20%; /* MAKE ME BIGGER */
+    margin: 5px auto 5px auto;
+    text-align: center;
+}
+
+.headshot-img {
+    width: 20%;
+}
+
+.socials-div {
+    display: block;
+    position: relative;
+    width: 20%;
+    margin: 5px auto 5px auto;
+    /* CENTER MY CHILDREN IMAGES */
+}
+
+.bottom-content{
+    width: 95%;
+    background-color: rgb() /* CHANGE ME */;
+    /* CENTER ME */
+    /* CENTER ME */
+    border: 2px solid black;
+    /* ADD BORDER RADIUS */
+}
